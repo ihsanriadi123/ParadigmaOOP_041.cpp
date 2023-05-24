@@ -22,5 +22,12 @@ public:
 	string nama;
 	vector<pasien*> daftar_pasien;
 
+	dokter(string pnama) :nama(pnama) {
+		cout << "dokter \" " << nama << "\"ada\n";
+	}
+	~dokter() {
+		cout << "dokter \"" << nama << "\"tidak ada\n";
+	}
+
 
 };
