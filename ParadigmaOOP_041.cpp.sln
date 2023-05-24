@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOP_041.cpp", "Par
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Asosisasi_041.cpp", "Asosisasi_041.cpp\Asosisasi_041.cpp.vcxproj", "{A5D7F1CA-23E7-4646-B64F-4905CB9A2FA4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Main IA_041.cpp", "Main IA_041.cpp\Main IA_041.cpp.vcxproj", "{39142131-D0D3-430B-8860-33CEE648E662}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{A5D7F1CA-23E7-4646-B64F-4905CB9A2FA4}.Release|x64.Build.0 = Release|x64
 		{A5D7F1CA-23E7-4646-B64F-4905CB9A2FA4}.Release|x86.ActiveCfg = Release|Win32
 		{A5D7F1CA-23E7-4646-B64F-4905CB9A2FA4}.Release|x86.Build.0 = Release|Win32
+		{39142131-D0D3-430B-8860-33CEE648E662}.Debug|x64.ActiveCfg = Debug|x64
+		{39142131-D0D3-430B-8860-33CEE648E662}.Debug|x64.Build.0 = Debug|x64
+		{39142131-D0D3-430B-8860-33CEE648E662}.Debug|x86.ActiveCfg = Debug|Win32
+		{39142131-D0D3-430B-8860-33CEE648E662}.Debug|x86.Build.0 = Debug|Win32
+		{39142131-D0D3-430B-8860-33CEE648E662}.Release|x64.ActiveCfg = Release|x64
+		{39142131-D0D3-430B-8860-33CEE648E662}.Release|x64.Build.0 = Release|x64
+		{39142131-D0D3-430B-8860-33CEE648E662}.Release|x86.ActiveCfg = Release|Win32
+		{39142131-D0D3-430B-8860-33CEE648E662}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
